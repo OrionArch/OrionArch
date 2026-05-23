@@ -99,18 +99,10 @@
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=<!-- placeholder:github_username -->OrionArch<!-- end-placeholder -->&show_icons=true&theme=default&title_color=2c3e50&icon_color=4a5568&text_color=4a5568&bg_color=f8f9fa&hide_border=false&border_color=e2e8f0" alt="GitHub Stats" width="95%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=<!-- placeholder:github_username -->OrionArch<!-- end-placeholder -->&layout=compact&title_color=2c3e50&icon_color=4a5568&text_color=4a5568&bg_color=f8f9fa&hide_border=false&border_color=e2e8f0" alt="Top Languages" width="95%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=<!-- placeholder:github_username -->OrionArch<!-- end-placeholder -->&show_icons=true&theme=default&title_color=2c3e50&icon_color=4a5568&text_color=4a5568&bg_color=f8f9fa&hide_border=false&border_color=e2e8f0&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=<!-- placeholder:github_username -->OrionArch<!-- end-placeholder -->&layout=compact&title_color=2c3e50&icon_color=4a5568&text_color=4a5568&bg_color=f8f9fa&hide_border=false&border_color=e2e8f0&v=2" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
@@ -128,5 +120,5 @@
 
 <div align="right">
   <!-- Visitor Counter Widget -->
-  <img src="https://profile-counter.glitch.me/<!-- placeholder:github_username -->OrionArch<!-- end-placeholder -->/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=<!-- placeholder:github_username -->OrionArch<!-- end-placeholder -->&color=3a506b&style=flat-square" alt="Visitor Counter" />
 </div>
